@@ -67,7 +67,8 @@ public class ColeccionNombres {
          agregar(new String[]{"Jose","Jesus","Joaquin","Frandy" } );
          agregar("Andrés");
          mostrarNombres();
-        
+         eliminar ("Jesus",true,true);
+         mostrarNombres();
     }
     
 }
