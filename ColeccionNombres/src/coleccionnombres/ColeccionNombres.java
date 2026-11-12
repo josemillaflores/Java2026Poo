@@ -61,9 +61,9 @@ public class ColeccionNombres {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        agregar("Huarac");
-        agregar("Ramos");
-        agregar(new String[]{"Otaiza","Luna","Jorge" } );
+         agregar("Huarac");
+         agregar("Ramos");
+         agregar(new String[]{"Otaiza","Luna","Jorge" } );
          agregar(new String[]{"Jose","Jesus","Joaquin","Frandy" } );
          agregar("Andrés");
          mostrarNombres();
